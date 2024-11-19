@@ -2,6 +2,7 @@
 Tool zum Erstellen von APEX-Outlook-AddIns
 
 ## API
+https://learn.microsoft.com/en-us/office/dev/add-ins/develop/xml-manifest-overview?tabs=tabid-1
 
 https://learn.microsoft.com/de-de/javascript/api/outlook/office.mailbox?view=outlook-js-preview
 
